@@ -72,7 +72,7 @@
     "loop" "super" "caller" "varargs"
     "kwargs" "break" "continue" "is"
     "not" "or" "and"
-    "do" "pluralize" "set" "from" "import"
+    "do" "pluralize" "set" "endset" "from" "import"
     "context" "with" "without" "ignore"
     "missing" "scoped"))
 
